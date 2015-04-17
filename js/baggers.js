@@ -16,26 +16,28 @@ var data = {
             "location": "Sydney",
             "sessions": [
                 {
-                    "title": "Strange Loops, Strange Code",
-                    "summary": "A stroll to the limits of Java source code, in the style of Douglas Hofstadter. We will discuss code, deceiving apparences, art and life."
+                    "title": "Test-Driven Development",
+                    "summary": "Test-driven development is related to the test-first programming concepts of extreme programming"
                 },
                 {
-                    "title": "Extremist Programming",
-                    "summary": "Yes, our job is a serious one. Software Craftmanship is, in the end, all about being professionals. Yes, progress does come from research scientific and from new and complex software and algorithms. Still, don't you ever dream of pushing the limits of your usual work environment? Explore? Go further? Have fun with code, to the point of it becoming nonsensical? In this session, we will introduce esoteric experiments, strange games and crazy ideas that will make you think. Think? Do we still have time for that?!"
+                    "title": "Behaviour-Driven Development",
+                    "summary": "Behavior-driven development combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development."
                 },
                 {
-                    "title": "Reduce boiler-plate code with Lombok",
-                    "summary": "Sick of writing setters and getters? toString()/equals()/hashCode() methods? Jealous of those new, less-verbose programming languages? Discover Lombok, a tool that will make your code easier, lighter and better looking!"
+                    "title": "Feature Flipping",
+                    "summary": "Feature Flipping is a technique that attempts to provide an alternative to maintaining multiple source-code branches at the same place"
                 },
                 {
-                    "title": "Introduction to Test-Driven Development",
-                    "summary": "TDD is a technique introduced as part of Extreme Programming two decades ago. It is probably the practice from XP that leads to the bigger benefits. If you haven't tried it out yet, this is your chance."
+                    "title": "IT Automation with Ansible",
+                    "summary": "It can configure systems, deploy software, and orchestrate more advanced IT tasks such as continuous deployments or zero downtime rolling updates."
                 }
             ],
             "tags": [
                 "Java",
                 "Code",
-                "Agile"
+                "Agile",
+                "DevOps",
+                "Cloud",
             ],
             "cities": [
                 "Sydney"
