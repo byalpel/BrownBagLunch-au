@@ -3,8 +3,8 @@ var map;
 function createMapWithVilles(data) {
     map = new GMaps({
         div: '#map',
-        lat: 1.352083, 
-        lng: 103.819836,
+        lat: -33.867487, 
+        lng: 151.206990,
         zoom: 11,
         disableDefaultUI: true
     });

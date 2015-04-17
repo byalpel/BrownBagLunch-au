@@ -1,19 +1,19 @@
 var data = {
     "baggers": [
         {
-            "name": "Eric Lefevre-Ardant",
-            "bio": "Technical Consultant with Palo IT",
-            "picture": "img/baggers/photo_eric.jpg",
+            "name": "Erwan ALLIAUME",
+            "bio": "Technical Consultant with OCTO",
+            "picture": "img/baggers/photo_erwan.jpg",
             "websites": [
                 {
-                    "title": "Personal Blog",
-                    "href": "http://ericlefevre.net/"
+                    "title": "LinkedIn",
+                    "href": "https://au.linkedin.com/in/erwanalliaume"
                 }
             ],
-            "twitter": "elefevre",
-            "contact": "contact@ericlefevre.net",
-            "mail": "contact@ericlefevre.net",
-            "location": "Geylang",
+            "twitter": "ealliaume",
+            "contact": "erwan.alliaume@gmail.com",
+            "mail": "erwan.alliaume@gmail.com",
+            "location": "Sydney",
             "sessions": [
                 {
                     "title": "Strange Loops, Strange Code",
@@ -38,71 +38,15 @@ var data = {
                 "Agile"
             ],
             "cities": [
-                "Geylang"
-            ]
-        },
-        {
-            "name": "Michael Isvy",
-            "bio": "In charge of APAC Education at Pivotal, co-founder of the Singapore Spring User Group",
-            "picture": "img/baggers/photo_michaelisvy.png",
-            "websites": [
-            ],
-            "twitter": "michaelisvy",
-            "contact": "contact@ericlefevre.net",
-            "mail": "misvy@pivotal.io",
-            "location": "Changi",
-            "sessions": [
-                {
-                    "title": "Web frameworks in Java: what happened in the past 10 years?",
-                    "summary": "How did we get from home-backed frameworks to Struts, JSF, Spring MVC and AngularJS? What is the future of Web development in Java?"
-                }
-            ],
-            "tags": [
-                "Java",
-                "Spring"
-            ],
-            "cities": [
-                "Changi"
-            ]
-        },
-        {
-            "name": "Sylvain Mahe",
-            "bio": "Agile and Lean Coach - Agile Coaches Team Lead",
-            "picture": "img/baggers/photo_sylvain_mahe.jpg",
-            "twitter": "mahe_sylvain",
-            "contact": "sylvain.mahe@gmail.com",
-            "mail": "sylvain.mahe@gmail.com",
-            "location": "Changi",
-            "sessions": [
-                {
-                    "title": "Introduction to Agile",
-                    "summary": "What is Agile? Which benefits can you expect from it? Let's discuss and explore the values, principles and key practices of Agile."
-                },
-                {
-                    "title": "Facilitation tools",
-                    "summary": "Meetings: where minutes are kept and hours lost. Sounds familiar? Unclear goals, lack of energy, misaligned participants, poor outcome (not to mention open laptops, participants dozing or texting their shopping list): this seems to be the reality for many teams in many organizations, where employees have to endure endless meetings days after days. Are meetings doomed to be boring? Wait! There is hope."
-                }
-            ],
-            "tags": [
-                "Agile",
-                "Coaching",
-                "Facilitation"
-            ],
-            "cities": [
-                "Changi"
+                "Sydney"
             ]
         }
     ],
     "cities": [
         {
-            "name": "Geylang",
-            "lat": 1.319718,
-            "lng": 103.891354
-        },
-        {
-            "name": "Changi",
-            "lat": 1.338167,
-            "lng": 103.967915
+            "name": "Sydney",
+            "lat": -33.867487,
+            "lng": 151.206990
         }
     ]
 };
