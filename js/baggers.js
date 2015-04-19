@@ -42,6 +42,50 @@ var data = {
             "cities": [
                 "Sydney"
             ]
+        },
+        {
+            "name": "David ALIA",
+            "bio": "CEO and Senior Consultant with OCTO",
+            "picture": "img/baggers/photo_dal.jpg",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://au.linkedin.com/in/davidalia"
+                }
+            ],
+            "twitter": "davidalia",
+            "contact": "david.alia@gmail.com",
+            "mail": "david.alia@gmail.com",
+            "location": "Sydney",
+            "sessions": [
+                {
+                    "title": "Lean Startup",
+                    "summary": "Build a better product or a better business model using Lean Startup tools. Don't say 'I think that' no more, say 'I measure that' instead."
+                },
+                {
+                    "title": "Cultural Hacking",
+                    "summary": "So you think your company is able to embrace agility and innovation at scale because you have adopted the brand new copyrighted method? Since we're not ants, and models are false as soon as they are set up, permanent adaptibility will be (also) obtained through strong company's culture understanding and collective improvement."
+                },
+                {
+                    "title": "Agile Organisation",
+                    "summary": "Agile for developers is behind us (let's hope!). Agile as a culture for everyone, or agile as a disciplined execution for organisations is still  at stake: how do agile projects/products scale, and organisation follow?"
+                },
+                {
+                    "title": "Digital Transformation",
+                    "summary": "Digitization is the impact on companies and organisations due to anywhere, anytime and for any usage interconnections of people and objects. The fundamentals of digitization are mainly technical strong assets and permanent adaptability of organisations to reduce time to market and focus on customers' needs"
+                }
+            ],
+            "tags": [
+                "Agile",
+                "Lean Startup",
+                "Digitization",
+                "Cultural Hacking",
+                "Architecture",
+                "Transformation",
+            ],
+            "cities": [
+                "Sydney"
+            ]    
         }
     ],
     "cities": [
