@@ -2,7 +2,7 @@ var data = {
     "baggers": [
         {
             "name": "Erwan ALLIAUME",
-            "bio": "Technical Consultant with OCTO",
+            "bio": "Technical Consultant at OCTO",
             "picture": "img/baggers/photo_erwan.jpg",
             "websites": [
                 {
@@ -45,7 +45,7 @@ var data = {
         },
         {
             "name": "David ALIA",
-            "bio": "CEO and Senior Consultant with OCTO",
+            "bio": "CEO and Senior Consultant at OCTO",
             "picture": "img/baggers/photo_dal.jpg",
             "websites": [
                 {
