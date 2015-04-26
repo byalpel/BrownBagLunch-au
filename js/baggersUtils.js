@@ -62,6 +62,20 @@ function displayContactModalWindowMail() {
         $('#contact-send').click(function(e) {
             e.preventDefault();
 
+            // backendless
+            if (true) {
+              var from = $('#contact-from').val();
+              var to = $('#contact-to').val();
+              var subject = $('#contact-subject').val();
+              var msg = $('#contact-message').val(); 
+
+              window.open('mailto:'+to+'?subject='+subject+'&bcc=alliaume@gmail.com&body='+msg);
+              
+              $('#mail-result').fadeIn();
+              $('#mail-status').removeClass("alert").addClass("success").text("Email sent ");
+              return;
+            }
+
             $.ajax({ url: "http://bbl-backend.eu01.aws.af.cm/mail",
                 data:{ from: $('#contact-from').val(), to: $('#contact-to').val(), subject: $('#contact-subject').val(), message: $('#contact-message').val()},
                 type: 'POST',
