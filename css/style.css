@@ -8,6 +8,11 @@ h1 {
     margin-bottom: 10px;
 }
 
+h4 {
+    margin: 10px;
+    font-size: 1.2em;
+}
+
 body {
     background: url(../images/pattern1.jpg) repeat #ffffff;
     font-family: 'Arapey', serif;
