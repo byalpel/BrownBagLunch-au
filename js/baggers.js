@@ -73,6 +73,10 @@ var data = {
                 {
                     "title": "Digital Transformation",
                     "summary": "Digitization is the impact on companies and organisations due to anywhere, anytime and for any usage interconnections of people and objects. The fundamentals of digitization are mainly technical strong assets and permanent adaptability of organisations to reduce time to market and focus on customers' needs"
+                },
+                {
+                    "title": "GTD (Getting Things Done)",
+                    "summary": "David Allen's best-seller method seems simple, though hard to use on a daily basis. Find out how discipline and tools can help you be more organized day after day."
                 }
             ],
             "tags": [
@@ -82,6 +86,7 @@ var data = {
                 "Cultural Hacking",
                 "Architecture",
                 "Transformation",
+                "GTD",
             ],
             "cities": [
                 "Sydney"
